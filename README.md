@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Nagapuri Rohith <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+React JS+Developer;&center=true&width=500&height=30">
+<a href="https://github.com/addepalli-bhavana"><img src="https://readme-typing-svg.herokuapp.com?lines=Front+End+Developer;&center=true&width=500&height=30"></a>
 </p>
 
 
