@@ -36,11 +36,6 @@
 ![SQL](https://img.shields.io/badge/sql-%2300599C.svg?style=for-the-badge&logo=sqlite&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  
 
-### 📌 Responsive Design:  
-✔ **Flexbox** | ✔ **Grid Layout** | ✔ **Media Queries**  
-
-### 🚀 Performance Optimization:  
-✔ **SSR** | ✔ **Service Workers** | ✔ **Caching** | ✔ **Lazy Loading** | ✔ **Code Splitting**  
 
 ### ⚙️ Version Control & Tools:  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
@@ -53,15 +48,6 @@
 
 ### 💡 State Management:  
 ✔ **Redux Toolkit** | ✔ **Context API**  
-
-### 🎯 Problem-Solving:  
-✔ **Data Structures & Algorithms** | ✔ **Code Optimization**  
-
-
-
- 
- 
-
 
 
 ## 🌐 Socials:
