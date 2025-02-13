@@ -6,7 +6,7 @@
 
 ## 💫 About Me:  
 - 😃 I am a **self-motivated** individual who loves to **explore new technologies** and learn quickly.  
-- 💻 Currently working towards becoming a **Full Stack Developer**, with a strong foundation in **Front-End Development (React.js, JavaScript, HTML, CSS, Redux, Tailwind CSS)**.  
+- 💻 Currently working towards becoming a **Full Stack Developer**, with a strong foundation in **Front-End Development**.  
 - 🚀 Passionate about **building user-friendly, high-performance web applications**.  
 - 📫 Open to **job opportunities, collaborations, and exciting projects!**  
 
@@ -51,7 +51,7 @@
 
 
 ## 🌐 Socials:
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhavana_addepalli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/addepalli-bhavana-001b62218/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/A__Bhavana) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-nagapuri/) 
 
 
 
